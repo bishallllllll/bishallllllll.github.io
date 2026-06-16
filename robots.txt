@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bishalsarkar.me/sitemap.xml
